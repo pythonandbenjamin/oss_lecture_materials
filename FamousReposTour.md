@@ -647,5 +647,5 @@ https://github.com/<owner>/<repo>/issues?q=is:open+label:%22good+first+issue%22
 
 ---
 
-*OSS Application and Development · Kyungpook National University*  
+*OSS Application and Development · Kyungpook National University / Daegu Catholic University*  
 *Generated: 2026-05-15*
