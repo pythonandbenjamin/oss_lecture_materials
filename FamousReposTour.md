@@ -4,7 +4,7 @@
 ### A Hands-on Tour of Famous Open Source Repositories
 ### 著名开源代码仓库实践之旅
 
-*OSS Application and Development · Kyungpook National University*
+*OSS Application and Development · Kyungpook National University / Daegu Catholic University*
 
 ---
 
